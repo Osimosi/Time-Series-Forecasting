@@ -1,10 +1,10 @@
 # Comprehensive Forecasting System with User Interface for Multiple Sectors
 
-![System Interface](images/1.png)
-![System Interface](images/2.png)
-![System Interface](images/3.png)
-![System Interface](images/4.png)
-![System Interface](images/5.png)
+![System Interface](Images/1.png)
+![System Interface](Images/2.png)
+![System Interface](Images/3.png)
+![System Interface](Images/4.png)
+![System Interface](Images/5.png)
 
 ## Introduction
 
